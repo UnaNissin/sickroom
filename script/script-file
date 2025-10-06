@@ -1,0 +1,9 @@
+Script started on 2025-10-05 19:10:52-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="117" LINES="41"]
+]0;ignore@fedora:~/script]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]7;file://fedora/home/ignore/script\[?2004h]133;D;0\]133;A\[32;1mignore@fedora[0m:[32;1m~/script[0m$[0m ]133;B\ls -lrt
+[?2004l]133;C\]666;vte.shell.preexec!\total 0
+-rw-r--r--. 1 ignore ignore 0 Oct  5 19:10 script-log
+-rw-r--r--. 1 ignore ignore 0 Oct  5 19:10 script-file
+]0;ignore@fedora:~/script]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]7;file://fedora/home/ignore/script\[?2004h]133;D;0\]133;A\[32;1mignore@fedora[0m:[32;1m~/script[0m$[0m ]133;B\exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2025-10-05 19:11:01-06:00 [COMMAND_EXIT_CODE="0"]
