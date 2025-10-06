@@ -7,5 +7,5 @@ to replay the script record
 
 `scriptreplay --timing=script-log script-file`
 
-# skull of mandam
-download files then run the `cmd`
+# skull of madman
+download this folder, then run the `cmd`
